@@ -1,0 +1,12 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "A microservice that accepts a date string, and returns a valid timestamp",
+  "main": "server.js",
+  "author": "Matt Hagner",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
+}
